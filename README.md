@@ -4,7 +4,7 @@
 
 I'm a passionate learner who enjoys exploring programming, web development, and the technologies behind computers.
 
-I love learning programming languages and understanding how things work under the hood — from writing code and working with the command line to exploring computer architecture and graphics.
+I love learning programming languages and understanding how things work under the hood from writing code and working with the command line to exploring computer architecture and graphics.
 
 ---
 
